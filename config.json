@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Construindo APIs REST com o framework FastAPI",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "express-rest-api",
+      "title": "Building REST APIs with Express",
+      "description": "Construindo APIs REST com Node.js e Express",
+      "path": "assignments/express-rest-api",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.js",
+          "type": "javascript"
+        }
+      ]
     }
   ]
 }
