@@ -1,36 +1,36 @@
 
-# 📘 Assignment: Game of Hangman
+# 📘 Assignment: Jogo da Forca
 
 ## 🎯 Objective
 
-Build a classic word-guessing game where the student practices string manipulation, loops, conditionals, and user input in Python.
+Construa um jogo clássico de adivinhação de palavras para praticar manipulação de strings, loops, condicionais e entrada de dados em Python.
 
 ## 📝 Tasks
 
 ### 🛠️ Create the Hangman Game
 
 #### Description
-Develop a console game in which the player guesses letters to reveal a hidden word before running out of attempts.
+Desenvolva um jogo de console no qual o jogador deve adivinhar letras para revelar uma palavra oculta antes de ficar sem tentativas.
 
 #### Requirements
 O programa concluído deve:
 
-- Select a random word from a predefined list of words
-- Accept letter guesses from the user and display the current progress using underscores and revealed letters
-- Track how many incorrect guesses remain
-- Stop the game when the word is fully guessed or the player runs out of attempts
-- Show clear victory and defeat messages at the end of the game
+- Selecionar uma palavra aleatoriamente a partir de uma lista predefinida
+- Aceitar palpites de letras e exibir o progresso atual usando sublinhados e letras reveladas
+- Controlar quantas tentativas incorretas ainda estão disponíveis
+- Encerrar o jogo quando a palavra for adivinhada ou quando as tentativas acabarem
+- Exibir mensagens claras de vitória ou derrota ao final do jogo
 
 ### 🛠️ Improve the User Experience
 
 #### Description
-Add small gameplay improvements so the game is easier to follow and more engaging for the player.
+Adicione melhorias simples para tornar o jogo mais fácil de acompanhar e mais interessante para o jogador.
 
 #### Requirements
 O programa concluído deve:
 
-- Prevent the player from guessing the same letter more than once
-- Validate user input and reject invalid entries
-- Display the guessed letters already used during the game
-- Keep the game loop clear and easy to understand for the player
-- Use a friendly message when the player wins or loses
+- Impedir que o jogador tente adivinhar a mesma letra mais de uma vez
+- Validar a entrada do usuário e rejeitar valores inválidos
+- Exibir as letras já utilizadas durante o jogo
+- Manter o loop principal claro e fácil de entender
+- Usar uma mensagem amigável quando o jogador vencer ou perder
