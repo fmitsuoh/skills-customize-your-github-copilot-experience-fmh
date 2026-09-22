@@ -86,6 +86,20 @@
           "type": "javascript"
         }
       ]
+    },
+    {
+      "id": "data-structures-algorithms-cpp",
+      "title": "Data Structures & Algorithms in C++",
+      "description": "Busca linear, busca binária e ordenação usando vetores em C++",
+      "path": "assignments/data-structures-algorithms-cpp",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.cpp",
+          "type": "cpp"
+        }
+      ]
     }
   ]
 }
